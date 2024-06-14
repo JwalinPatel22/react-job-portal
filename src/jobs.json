@@ -4,14 +4,14 @@
       "id": "1",
       "title": "Senior React Developer",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "$125K - 150K",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
         "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "111-111-1111"
+        "contactPhone": "234-234-4454"
       }
     },
     {
@@ -123,104 +123,6 @@
         "name": "NextGen Tech",
         "description": "NextGen Tech is a leader in the technology industry, providing cutting-edge solutions to clients worldwide. We are committed to fostering innovation and excellence.",
         "contactEmail": "contact@nextgentech.com",
-        "contactPhone": "555-555-8765"
-      }
-    },
-    {
-      "id": "10",
-      "title": "React.js Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a React.js Developer in Denver, CO. We are looking for a motivated individual with a passion for front-end development and a keen eye for detail.",
-      "location": "Denver, CO",
-      "salary": "$80K - $90K",
-      "company": {
-        "name": "Skyline Solutions",
-        "description": "Skyline Solutions is a fast-growing tech company specializing in cloud-based software solutions. We offer a collaborative and innovative work environment.",
-        "contactEmail": "contact@skylinesolutions.com",
-        "contactPhone": "555-555-4321"
-      }
-    },
-    {
-      "id": "11",
-      "title": "React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented React Developer to join our team in Chicago, IL. The ideal candidate will have strong skills in JavaScript and experience with React and Redux.",
-      "location": "Chicago, IL",
-      "salary": "$85K - $95K",
-      "company": {
-        "name": "Tech Innovators",
-        "description": "Tech Innovators is a leading company in the tech industry, dedicated to developing innovative software solutions. We value creativity, collaboration, and excellence.",
-        "contactEmail": "contact@techinnovators.com",
-        "contactPhone": "555-555-0987"
-      }
-    },
-    {
-      "id": "12",
-      "title": "React Native Engineer",
-      "type": "Full-Time",
-      "description": "We are looking for a React Native Engineer to join our team in Los Angeles, CA. The ideal candidate will have experience in mobile app development and a strong understanding of React Native.",
-      "location": "Los Angeles, CA",
-      "salary": "$100K - $110K",
-      "company": {
-        "name": "Mobile First",
-        "description": "Mobile First is a top company specializing in mobile app development. We are committed to delivering high-quality mobile solutions and fostering a collaborative work environment.",
-        "contactEmail": "contact@mobilefirst.com",
-        "contactPhone": "555-555-6543"
-      }
-    },
-    {
-      "id": "13",
-      "title": "Front-End Developer",
-      "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in Salt Lake City, UT. We are looking for a passionate individual with experience in React and a strong attention to detail.",
-      "location": "Salt Lake City, UT",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Creative Solutions",
-        "description": "Creative Solutions is a tech company focused on delivering innovative web and mobile solutions. We value creativity, collaboration, and continuous improvement.",
-        "contactEmail": "contact@creativesolutions.com",
-        "contactPhone": "555-555-3210"
-      }
-    },
-    {
-      "id": "14",
-      "title": "Full-Stack Developer",
-      "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Full-Stack Developer in Raleigh, NC. We are seeking a talented individual with experience in both front-end and back-end development, particularly with React and Node.js.",
-      "location": "Raleigh, NC",
-      "salary": "$95K - $105K",
-      "company": {
-        "name": "DevMasters",
-        "description": "DevMasters is a leading software development company specializing in full-stack solutions. We offer a collaborative and innovative work environment where employees can thrive.",
-        "contactEmail": "contact@devmasters.com",
-        "contactPhone": "555-555-7890"
-      }
-    },
-    {
-      "id": "15",
-      "title": "React UI Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a React UI Developer to join our team in Nashville, TN. The ideal candidate will have strong skills in React and a passion for creating beautiful and responsive user interfaces.",
-      "location": "Nashville, TN",
-      "salary": "$75K - $85K",
-      "company": {
-        "name": "UI Wizards",
-        "description": "UI Wizards is a creative agency specializing in user interface design and development. We are dedicated to delivering exceptional results for our clients through innovative design and development.",
-        "contactEmail": "contact@uiwizards.com",
-        "contactPhone": "555-555-2345"
-      }
-    },
-    {
-      "id": "16",
-      "title": "React.js Front-End Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a React.js Front-End Developer in San Diego, CA. We are looking for a talented individual with a passion for front-end development and experience with modern JavaScript frameworks.",
-      "location": "San Diego, CA",
-      "salary": "$80K - $90K",
-      "company": {
-        "name": "Web Innovators",
-        "description": "Web Innovators is a technology company that focuses on building innovative web solutions. We offer a collaborative and creative work environment where employees can thrive.",
-        "contactEmail": "contact@webinnovators.com",
         "contactPhone": "555-555-8765"
       }
     }
