@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import logo from "../assets/images/logo.png";
 
 export default function Navbar() {
   const LinkClass = ({ isActive }) =>
@@ -16,7 +17,7 @@ export default function Navbar() {
             >
               <img
                 className="h-10 w-auto"
-                src="images/logo.png"
+                src={logo}
                 alt="React Jobs"
               />
               <span className="hidden md:block text-white text-2xl font-bold ml-2">
